@@ -1,10 +1,10 @@
-#Littlelemon_API
+# Littlelemon_API
 
-##1-Description du projet
+## 1-Description du projet
 
   une API REST construitr avec django rest_framwork permettant de gérer le menu, la mise en panier des article, la validation des commandes et même gestion des utilisateurs.
 
-##2-Fontionnalites
+## 2-Fontionnalites
 
 -operations CRUD sur les items du menu.
 
