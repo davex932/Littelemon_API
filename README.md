@@ -4,6 +4,31 @@ Une API RESTful construite avec **Django** et **Django REST Framework (DRF)** po
 
 ---
 
+## 💻 Installation et Démarrage
+
+Suivez ces étapes pour configurer et lancer l'API en local.
+
+### Création de l'Environnement Virtuel
+
+Il est **fortement recommandé** d'utiliser un environnement virtuel pour isoler les dépendances du projet.
+
+**Via `venv` (standard Python) :**
+
+```bash
+#### Crée l'environnement virtuel (nommé 'venv')
+python3 -m venv venv
+
+#### Active l'environnement virtuel
+#### Sur Linux/macOS :
+source venv/bin/activate
+#### Sur Windows (PowerShell) :
+.\venv\Scripts\Activate.ps1
+#### Sur Windows (Cmd) :
+.\venv\Scripts\activate.bat
+```
+
+---
+
 ## ✨ Fonctionnalités Clés
 
 * **Gestion des Menus et Catégories** : Opérations CRUD complètes sur les éléments de menu et leurs catégories.
